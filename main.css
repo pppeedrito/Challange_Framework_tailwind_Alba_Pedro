@@ -1,0 +1,19 @@
+body{
+    font-family: 'Spartan', sans-serif;
+}
+.title1{
+    color:hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+.title2{
+    color:hsl(303, 10%, 53%);
+    font-weight: 400;
+}
+.backgraund_stars{
+   background-color: hsl(300, 24%, 96%);
+}
+.p-star{
+    color:hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+
