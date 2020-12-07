@@ -1,13 +1,16 @@
+
 body{
+    background: url("images/bg-pattern-bottom-mobile.svg");
     font-family: 'Spartan', sans-serif;
+
 }
 .title1{
     color:hsl(300, 43%, 22%);
-    font-weight: 700;
+
 }
 .title2{
     color:hsl(303, 10%, 53%);
-    font-weight: 400;
+
 }
 .backgraund_stars{
    background-color: hsl(300, 24%, 96%);
@@ -17,3 +20,18 @@ body{
     font-weight: 700;
 }
 
+.cards-work{
+    background:  hsl(300, 43%, 22%)
+}
+.p-color-card{
+    color:hsl(300, 24%, 96%);
+}
+.p-color-card-work{
+    color:hsl(333, 80%, 67%);
+}
+.p-color-description-card{
+color: hsl(300, 24%, 96%)
+}
+
+
+  
